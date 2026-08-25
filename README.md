@@ -6,8 +6,8 @@ This code is completely open-source and everyone is welcome to make their own ve
 
 # How to use?
 
-Install the "app.pyw" file, the "install_and_build.py" file and the "installer.bat" file off this page.
-Run the "installer.bat" file to install dependencies and executable.
-Run the "YouTube_Downloader_GUI" file to open the downloader. (takes a couple of seconds to load up)
+Download the installer of the "Releases" page.
+Run it as administrator.
+The application will open shortly after completing the installer.
 
 The app is completely free, unlimited and has no ads or donation nags.
